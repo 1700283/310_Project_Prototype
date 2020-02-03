@@ -1,0 +1,2 @@
+C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\Definitions.Project_Game_310.h
+c:\users\kacper\documents\github\310-project\project_game_310\source\project_game_310\Project_Game_310.h

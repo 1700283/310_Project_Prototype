@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Kacper\Documents\GitHub\310-Project).
+  Creating makefile for Project_Game_310Editor (ini files are newer than makefile)
+  Parsing headers for Project_Game_310Editor
+    Running UnrealHeaderTool "C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Project_Game_310.uproject" "C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\Project_Game_310Editor\Development\Project_Game_310Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Project_Game_310Editor in 4.4077205 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (E:\Program Files (x86)\Microsoft Visual Studio\VS\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] MainCharacter.cpp
+    [2/4] UE4Editor-Project_Game_310-0005.lib
+       Creating library C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\UE4Editor-Project_Game_310-0005.lib and object C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\UE4Editor-Project_Game_310-0005.exp
+    [3/4] UE4Editor-Project_Game_310-0005.dll
+       Creating library C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\UE4Editor-Project_Game_310-0005.suppressed.lib and object C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\UE4Editor-Project_Game_310-0005.suppressed.exp
+    [4/4] Project_Game_310Editor.target
+  Total time in Parallel executor: 1.56 seconds
+  Total execution time: 7.51 seconds

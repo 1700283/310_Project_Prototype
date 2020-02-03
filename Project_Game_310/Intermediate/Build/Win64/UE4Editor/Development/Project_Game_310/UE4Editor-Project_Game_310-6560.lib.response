@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Project_Game_310-6560.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\Project_Game_310Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\MainCharacter.cpp.obj"
+"C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\Project_Game_310.cpp.obj"
+"C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\MainCharacter.gen.cpp.obj"
+"C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\Project_Game_310.init.gen.cpp.obj"
+"C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\Default.rc2.res"
+/OUT:"C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\UE4Editor-Project_Game_310-6560.lib"
+/INCLUDE:IMPLEMENT_MODULE_Project_Game_310

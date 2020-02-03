@@ -1,0 +1,3 @@
+C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\Definitions.Project_Game_310.h
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

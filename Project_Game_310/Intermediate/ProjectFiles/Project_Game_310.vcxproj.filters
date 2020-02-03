@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Project_Game_310.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A008B12C-710C-41BD-BF12-8FF407DF4376}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project_Game_310.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Project_Game_310Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{BE882E4E-74FA-4E1B-B70B-A8AAF1B16DC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Project_Game_310">
+      <UniqueIdentifier>{1468457A-5B4B-4616-A13D-B6A773E73D2E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project_Game_310\Project_Game_310.Build.cs">
+      <Filter>Source\Project_Game_310</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Project_Game_310\Project_Game_310.cpp">
+      <Filter>Source\Project_Game_310</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Project_Game_310\Project_Game_310.h">
+      <Filter>Source\Project_Game_310</Filter>
+    </ClInclude>
+    <Filter Include="Source\Project_Game_310\Private">
+      <UniqueIdentifier>{945BA4CB-9FB9-44C2-9988-4426BDC93EB7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project_Game_310\Private\MainCharacter.cpp">
+      <Filter>Source\Project_Game_310\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Project_Game_310\Public">
+      <UniqueIdentifier>{C9942753-4740-4D8B-AE79-6788DD264B54}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Project_Game_310\Public\MainCharacter.h">
+      <Filter>Source\Project_Game_310\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

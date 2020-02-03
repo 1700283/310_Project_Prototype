@@ -1,0 +1,3 @@
+C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Source\Project_Game_310\Project_Game_310.Build.cs
+C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Source\Project_Game_310.Target.cs
+C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Source\Project_Game_310Editor.Target.cs

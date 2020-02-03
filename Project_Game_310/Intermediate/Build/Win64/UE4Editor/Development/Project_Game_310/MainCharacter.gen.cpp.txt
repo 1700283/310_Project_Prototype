@@ -1,0 +1,9 @@
+C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Intermediate\Build\Win64\UE4Editor\Development\Project_Game_310\Definitions.Project_Game_310.h
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Kacper\Documents\GitHub\310-Project\Project_Game_310\Source\Project_Game_310/Public/MainCharacter.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+c:\users\kacper\documents\github\310-project\project_game_310\intermediate\build\win64\ue4editor\inc\project_game_310\MainCharacter.generated.h
